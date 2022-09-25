@@ -1,6 +1,7 @@
 Group 24 \
 Jerrica Deloatch \
 deloatchj22@students.ecu.edu \
+\
 #HW1
 Classifier coded in Jupyter notebook \
 Initially, K increased, but then stalled. I believe this is because nearest neighbors ultimately only depend on what observations are nearest. When I incresed K range to 100, the accuracy increased and decreased, as it processed certain values. \
