@@ -15,4 +15,8 @@ The best value for K is 4. That is where the elbow can be found. \
 #HW3
 Regression to the Mean
 \
+![Screenshot (68)](https://user-images.githubusercontent.com/113311736/194206815-30e64ee5-58f2-4a48-b1e4-263367835ddd.png)
+![Screenshot (70)](https://user-images.githubusercontent.com/113311736/194206842-61b37eed-d679-46bf-ae45-bb22b2078206.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/113311736/194206850-ad704abe-9138-4231-ba31-0d5b731bc7ce.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/113311736/194206868-221fdf89-a3d0-488b-8382-aca372bda29a.png)
 
