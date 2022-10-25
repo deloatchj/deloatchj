@@ -23,10 +23,16 @@ Regression to the Mean
 HW4
 Bicycle traffic prediction(Regularization)
 \
-#Didn't undertsand this assignment- Will continue to work on it!
+Lasso
+0.7079183807991255
+{'alpha': 0.97}
 \
-Lasso(alpha=0.001)
+Ridge
+0.7131526779208034
+{'alpha': 0.53}
+Ridge
+0.7991130209372297
 \
-Ridge(alpha=0.1))
-\
-Alpha=0.5
+Linear
+0.8030079054191046
+
