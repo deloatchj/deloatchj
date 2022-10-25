@@ -35,4 +35,5 @@ Ridge
 \
 Linear
 0.8030079054191046
-
+\
+Linear has best score.
