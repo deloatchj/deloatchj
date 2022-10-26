@@ -20,6 +20,7 @@ Regression to the Mean
 ![Screenshot (69)](https://user-images.githubusercontent.com/113311736/194206850-ad704abe-9138-4231-ba31-0d5b731bc7ce.png)
 ![Screenshot (71)](https://user-images.githubusercontent.com/113311736/194206868-221fdf89-a3d0-488b-8382-aca372bda29a.png)
 \
+\
 HW4
 Bicycle traffic prediction(Regularization)
 \
@@ -37,3 +38,14 @@ Linear
 0.8030079054191046
 \
 Linear has best score.
+\
+\
+HW5
+Breast Cancer using RandomForestClassifier
+\
+Data was split: train 70 %, test 30 %
+('entropy', n_estimators= 200, random_state= 1, n_jobs= 2, max_depth= 1)
+(threshold=0.1176)
+\
+Accuracy: 
+![Screenshot (76)](https://user-images.githubusercontent.com/113311736/198091316-8951e0d9-78a1-40aa-9f15-683e9c4a4546.png)
