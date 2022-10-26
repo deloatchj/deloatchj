@@ -21,9 +21,7 @@ Regression to the Mean
 ![Screenshot (71)](https://user-images.githubusercontent.com/113311736/194206868-221fdf89-a3d0-488b-8382-aca372bda29a.png)
 \
 \
-HW4
-\
-Bicycle traffic prediction(Regularization)
+#HW4 Bicycle traffic prediction(Regularization)
 \
 Lasso
 0.7079183807991255
@@ -41,9 +39,7 @@ Linear
 Linear has best score.
 \
 \
-HW5
-\
-Breast Cancer using RandomForestClassifier
+#HW5 Breast Cancer using RandomForestClassifier
 \
 Data was split: train 70 %, test 30 %
 ('entropy', n_estimators= 200, random_state= 1, n_jobs= 2, max_depth= 1)
