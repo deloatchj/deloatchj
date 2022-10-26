@@ -45,5 +45,4 @@ Data was split: train 70 %, test 30 %
 ('entropy', n_estimators= 200, random_state= 1, n_jobs= 2, max_depth= 1)
 (threshold=0.1176)
 \
-Accuracy: 
 ![Screenshot (76)](https://user-images.githubusercontent.com/113311736/198091316-8951e0d9-78a1-40aa-9f15-683e9c4a4546.png)
