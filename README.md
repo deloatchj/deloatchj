@@ -22,6 +22,7 @@ Regression to the Mean
 \
 \
 HW4
+\
 Bicycle traffic prediction(Regularization)
 \
 Lasso
@@ -41,6 +42,7 @@ Linear has best score.
 \
 \
 HW5
+\
 Breast Cancer using RandomForestClassifier
 \
 Data was split: train 70 %, test 30 %
