@@ -52,5 +52,7 @@ Data was split: train 70 %, test 30 %
 #HW6 Classify Digits
 From the data below showing the parameters and accuracy for each kernel, we see the polynomial kernel is the most accurate.
 ![Screenshot (86)](https://user-images.githubusercontent.com/113311736/204107134-9e451073-fa49-4506-b6fb-b88e1148a476.png)
+\
 ![Screenshot (87)](https://user-images.githubusercontent.com/113311736/204107155-b8147b0f-3275-402f-a42b-96061842e034.png)
+\
 ![Screenshot (88)](https://user-images.githubusercontent.com/113311736/204107197-056439d9-ea20-4fbb-aae4-f7dbd5718b27.png)
